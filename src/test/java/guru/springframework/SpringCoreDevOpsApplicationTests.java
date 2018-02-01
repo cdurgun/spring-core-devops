@@ -9,7 +9,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = SpringCoreDevOpsApplication.class)
 @WebAppConfiguration
-//public class SpringCoreDevOpsApplicationTests {
+public class SpringCoreDevOpsApplicationTests {
 
 	@Test
 	public void contextLoads() {
