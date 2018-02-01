@@ -14,6 +14,7 @@ public class SpringCoreDevOpsApplicationTests {
 	@Test
 	public void contextLoads() {
 		//Test satırı
+		//Test satırı2
 	}
 
 }
